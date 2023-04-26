@@ -1,16 +1,1 @@
-# Expo Router Example
-
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
-# todolist-react-native
+This project is a React Native Todo List App that uses a Spring Boot backend to provide CRUD functionality. The app allows users to manage their tasks effectively by creating, updating, and deleting todo items.
