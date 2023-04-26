@@ -4,4 +4,4 @@ This project is a React Native Todo List App that uses a Spring Boot backend to 
 
 # screenshot
 
-<img src="https://asset.cloudinary.com/yilin1234/fc6303fc8aff5ec71d8ba439b0f098b8" width=50% height=50%>
+<img src="https://asset.cloudinary.com/yilin1234/fc6303fc8aff5ec71d8ba439b0f098b8" width=50%>
